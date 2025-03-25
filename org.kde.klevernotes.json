@@ -46,8 +46,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/klevernotes/1.2.1/klevernotes-1.2.1.tar.xz",
-                    "sha256": "8314887685ba6da38481369b197fa51db8eeb25007d7a3e13fdd8daaf7d3c4d9",
+                    "url": "https://download.kde.org/stable/klevernotes/1.2.2/klevernotes-1.2.2.tar.xz",
+                    "sha256": "590a1ea334443781aca940b83a5613ae2aedf9f61ad72793f7445a271bd31f72",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 374699,
